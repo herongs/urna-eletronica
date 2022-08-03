@@ -4,7 +4,7 @@ let etapas = [
         numeros: 5,
         candidatos: [
         {
-            numero: 13123,
+            numero: '13123',
             name: 'Fulano de tal',
             partido: 'ABC',
             fotos:[
@@ -12,7 +12,7 @@ let etapas = [
             ]
         },
         {
-            numero: 17690,
+            numero: '17690',
             name: 'Ciclano Birulito',
             partido: 'OUTRO',
             fotos:[
@@ -26,7 +26,7 @@ let etapas = [
         numeros: 2,
         candidatos: [
         {
-            numero: 13,
+            numero: '13',
             name:'Bart',
             partido:'nois',
             vice:'Patolino',
@@ -36,7 +36,7 @@ let etapas = [
             ]
         },
         {
-            numero: 17,
+            numero: '17',
             name:'Bob Esponja',
             partido:'eles',
             vice:'Pica Pau',

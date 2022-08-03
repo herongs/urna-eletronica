@@ -14,7 +14,7 @@ function comecarEtapa(){
     cargo.innerHTML = etapa.titulo;
     descricao.innerHTML = '';
     aviso.style.display = 'none';
-    lateral = innerHTML = '';
+    lateral.innerHTML = '';
     numeros.innerHTML = numeroHTML;
 }
 
